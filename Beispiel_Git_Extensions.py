@@ -3,9 +3,11 @@ a=1
 b=2
 #Berechnungen
 c=a+b
-d=a*b
-e=c+d
+d=a*b*4
+f=c+d
+g=f+3
 #Ausgabe
 print("Ergebnis von c", c)
 print("Ergebnis von d", d)
-print("Ergebnis von e", e)
+print("Ergebnis von f", f)
+print("Ergebnis von g", g)
