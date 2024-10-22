@@ -5,7 +5,9 @@ b=2
 c=a+b
 d=a*b*4
 f=c+d
+g=f+3
 #Ausgabe
 print("Ergebnis von c", c)
 print("Ergebnis von d", d)
 print("Ergebnis von f", f)
+print("Ergebnis von g", g)
